@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
+# Temperature Converter Program
 temp=float(input("Enter the temperature: "))
 unit=input("Is it in Celcius or Fahrenheit (C or F): ")
 if unit=="C":
@@ -14,10 +9,3 @@ elif unit=="F":
     print(f"{temp}°C")
 else:
     print(f"{unit} is an invalid unit of measurement")
-
-
-# In[ ]:
-
-
-
-
