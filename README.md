@@ -1,2 +1,2 @@
 # Temperature-Converter
-Converts the temperature from one unit to other
+Converts The Gievn Input Temperature Into Fahrenheit Or Celcius
